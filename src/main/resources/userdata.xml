@@ -1,0 +1,22 @@
+<users>
+    <user>
+        <name>Вася</name>
+        <birthday>19-01-1945</birthday>
+    </user>
+    <user>
+        <name>Петя</name>
+        <birthday>14-07-1955</birthday>
+    </user>
+    <user>
+        <name>Вова</name>
+        <birthday>01-05-1986</birthday>
+    </user>
+    <user>
+        <name>Гога</name>
+        <birthday>01-05-1988</birthday>
+    </user>
+    <user>
+        <name>Паша</name>
+        <birthday>03-09-1983</birthday>
+    </user>
+</users>
